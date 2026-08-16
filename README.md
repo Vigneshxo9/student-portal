@@ -1,4 +1,4 @@
-﻿# Student Portal
+# Student Portal
 
 ## Project Overview
 
@@ -30,4 +30,4 @@ Development work is performed on feature branches and integrated into main after
 
 ## Maintenance
 
-Portal Status: Stable
+Portal Status: Production Ready
