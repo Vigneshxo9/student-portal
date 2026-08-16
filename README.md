@@ -7,3 +7,9 @@ Student Portal is a C++ based legacy application being maintained and improved t
 ## Project Overview
 
 Student Portal is a C++ based legacy application being maintained and improved through structured Git version control.
+
+## Prerequisites
+
+- Git
+- C++ compiler
+- Windows PowerShell
