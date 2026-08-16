@@ -2,3 +2,4 @@
 Profile records student identification and contact information.
 Students can update permitted profile information.
 Authenticated students can view their saved profile information.
+Profile validation helps prevent incomplete student records.
