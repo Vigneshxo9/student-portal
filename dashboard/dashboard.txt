@@ -1,1 +1,2 @@
 ﻿Student dashboard module.
+Dashboard summarizes important student portal activity.
