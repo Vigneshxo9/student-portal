@@ -1,3 +1,4 @@
 ﻿Student dashboard module.
 Dashboard summarizes important student portal activity.
 Dashboard presents relevant student information in organized sections.
+Dashboard provides access to commonly used portal features.
