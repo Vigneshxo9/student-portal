@@ -1,3 +1,4 @@
 ﻿Student portal settings module.
 Settings allow students to manage portal preferences.
 Notification preferences can be configured through settings.
+Account settings provide configuration for student portal access.
