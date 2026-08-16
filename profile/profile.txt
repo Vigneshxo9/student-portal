@@ -1,3 +1,4 @@
 ﻿Student profile management module.
 Profile records student identification and contact information.
 Students can update permitted profile information.
+Authenticated students can view their saved profile information.
