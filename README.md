@@ -13,3 +13,11 @@ Student Portal is a C++ based legacy application being maintained and improved t
 - Git
 - C++ compiler
 - Windows PowerShell
+
+## Build
+
+Compile main.cpp using a C++ compiler that supports standard C++ features.
+
+## Build
+
+Compile main.cpp using a C++ compiler that supports standard C++ features.
