@@ -20,6 +20,11 @@ int main() {
     printWelcomeMessage();
     greetUser();
     printPortalStatus();
+    printNextStep();
+    
+void printNextStep() {
+    std::cout << "Next step: process student records." << std::endl;
+}
 
     int num1 = 5;
     int num2 = 10;
