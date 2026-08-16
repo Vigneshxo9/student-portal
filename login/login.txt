@@ -1,1 +1,2 @@
 ﻿Student authentication module.
+Users provide registered credentials to access the portal.
