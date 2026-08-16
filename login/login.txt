@@ -2,3 +2,4 @@
 Users provide registered credentials to access the portal.
 Login validation checks submitted credentials against registered student records.
 Invalid credentials prevent unauthorized access to the student portal.
+Successful authentication grants the student access to portal features.
