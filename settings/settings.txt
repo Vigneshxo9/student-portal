@@ -1,1 +1,2 @@
 ﻿Student portal settings module.
+Settings allow students to manage portal preferences.
