@@ -1,3 +1,4 @@
 ﻿Student authentication module.
 Users provide registered credentials to access the portal.
 Login validation checks submitted credentials against registered student records.
+Invalid credentials prevent unauthorized access to the student portal.
