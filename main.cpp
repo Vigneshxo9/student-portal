@@ -9,7 +9,9 @@ void printWelcomeMessage() {
 void greetUser() {
     std::cout << "Hello, Developer!" << std::endl;
 }
-
+void printPortalStatus() {
+    std::cout << "Student Portal is ready for development." << std::endl;
+}
 int addNumbers(int a, int b) {
     return a + b;
 }
@@ -17,6 +19,7 @@ int addNumbers(int a, int b) {
 int main() {
     printWelcomeMessage();
     greetUser();
+    printPortalStatus();
 
     int num1 = 5;
     int num2 = 10;
