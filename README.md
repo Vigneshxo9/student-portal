@@ -31,3 +31,7 @@ Development work is performed on feature branches and integrated into main after
 ## Maintenance
 
 Portal Status: Production Ready
+
+##Validation
+
+The student portal modules were reviewed after integrating the feature branches.
