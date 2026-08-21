@@ -10,9 +10,9 @@ Student Portal is a C++ based legacy application being maintained and improved t
 
 ## Prerequisites
 
-- Git
-- C++ compiler
-- Windows PowerShell
+* Git
+* C++ compiler
+* Windows PowerShell
 
 ## Build
 
@@ -32,6 +32,15 @@ Development work is performed on feature branches and integrated into main after
 
 Portal Status: Production Ready
 
-##Validation
+
+
+\##Validation
 
 The student portal modules were reviewed after integrating the feature branches.
+
+
+
+\##Release
+
+Version 1.0 represents integrated student portal feature set with Git history and release tagging.
+
